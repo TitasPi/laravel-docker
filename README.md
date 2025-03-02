@@ -47,16 +47,10 @@
 ### phpMyAdmin
 - URL: http://localhost:8080
 - Server: `db`
-- Username: `refactorian`
-- Password: `refactorian`
-- Database: `refactorian`
+- Username: `dev2025`
+- Password: `password`
+- Database: `competition`
 
-### Adminer
-- URL: http://localhost:9090
-- Server: `db`
-- Username: `refactorian`
-- Password: `refactorian`
-- Database: `refactorian`
 
 ### Basic docker compose commands
 - Build or rebuild services

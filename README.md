@@ -1,26 +1,26 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# WEB dev Challenge 2025 - B Module
+## PHP + Laravel + MariaDB + PhpMyAdmin Docker Template
 
-# Laravel Docker Starter Kit
-- Laravel v11.x
-- PHP v8.3.x
-- MySQL v8.1.x (default)
-- MariaDB v10.11.x
-- PostgreSQL v16.x
-- pgAdmin v4.x
-- phpMyAdmin v5.x
-- Mailpit v1.x
-- Node.js v18.x
-- NPM v10.x
-- Yarn v1.x
-- Vite v5.x
-- Rector v1.x
-- Redis v7.2.x
+Welcome to the **Dev Challenge 2025**! Follow the steps below to set up your repository and deploy your project successfully.
+
+## 🚀 Getting Started
+
+### Fork the Repository
+You need to fork the official repository before making any changes. Follow these steps:
+
+1. Click the **Fork** button in the top-right corner of this repository.
+2. Name your repository in the following format:
+   ```
+   module-b-laravel-mariadb-{your-number}
+   ```
+   Example: `module-b-laravel-mariadb-1`
+3. Click **Create Fork**.
 
 # Requirements
 - Stable version of [Docker](https://docs.docker.com/engine/install/)
 - Compatible version of [Docker Compose](https://docs.docker.com/compose/install/#install-compose)
 
-# How To Deploy
+# How To run docker
 
 ### For first time only !
 - `git clone https://github.com/refactorian/laravel-docker.git`
@@ -109,7 +109,19 @@
 - Process
     - `vendor/bin/rector process`
 
-# Alternatives
-- [Laravel Sail](https://laravel.com/docs/master/sail)
-- [Laravel Herd](https://herd.laravel.com/)
-- [Laradock](https://laradock.io/)
+## 🛠 Technologies list:
+- **PHP** + **Laravel**
+- **MoriaDB** + **PhpMyAdmin**
+- **Docker** + **Docker Compose**
+
+
+## 🎯 Competition Rules
+- Do **not** change the repository structure.
+- Ensure that your project builds and runs without errors.
+- The final deployed version must be accessible via GitHub Pages.
+
+Good luck and happy coding! 🚀
+
+## 👨‍💻 Authors
+- **[Martynas Kašelionis](https://github.com/martynasIN)** - Main contributor  
+

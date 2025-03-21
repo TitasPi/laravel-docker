@@ -39,7 +39,7 @@ You need to fork the official repository before making any changes. Follow these
 - [Laravel 10.x](https://github.com/refactorian/laravel-docker/tree/laravel_10x)
 
 ### Laravel App
-- URL: http://localhost
+- URL: http://localhost:8000
 
 ### Mailpit
 - URL: http://localhost:8025
